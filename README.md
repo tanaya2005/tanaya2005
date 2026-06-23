@@ -12,9 +12,7 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=tanaya2005&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jaintanaya">
+   <a href="https://www.linkedin.com/in/jaintanaya">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -38,7 +36,7 @@
 | 🎯 Project | 💡 What it Does | 🛠️ Stack | ⭐ |
 |:---:|:---:|:---:|:---:|
 | [**KisaanSetu**](https://github.com/tanaya2005/KisaanSetu--Agri-Tech_Hackathon) | 🏆 **1st Prize** — AgriTech platform empowering Indian farmers | Flutter · Dart | 🌾 |
-| [**CarbonIQ**](https://github.com/tanaya2005/CarbonIQ) | 🆕 Upload your AWS Cost & Usage Report → 6-agent AI pipeline calculates carbon emissions, maps regions, identifies optimisation opportunities & delivers sustainability insights | Python · FastAPI · React · Gemini AI · NeonDB · boto3 · Electricity Maps API | 🌱 |
+| [**CarbonIQ**](https://github.com/tanaya2005/CarbonIQ) | 🆕 Connect your AWS usage data → 6-agent AI pipeline calculates carbon emissions, maps regions, identifies optimisation opportunities & delivers sustainability insights | Python · FastAPI · React · Gemini AI · NeonDB · boto3 · Electricity Maps API | 🌱 |
 | [**SafeSight**](https://github.com/tanaya2005/SafeSight) | AI-powered industrial safety monitoring system | Python · Computer Vision · AI/ML | 🤖 |
 | [**Multi-Versal Rush**](https://github.com/tanaya2005/Multi-Versal_Rush-DevHacks) | Real-time 3D multiplayer obstacle racing — 5 worlds, voice chat, XP system & cosmetics shop | React Three Fiber · Socket.io · Node.js · LiveKit | 🎮 |
 | [**HerVerse**](https://github.com/tanaya2005/HerVerse-AWS) | Women-first social platform with real-time circles, posts & messaging | React · AWS Lambda · DynamoDB · Cognito · Stream Chat | 💜 |
