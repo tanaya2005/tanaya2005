@@ -38,6 +38,7 @@
 | 🎯 Project | 💡 What it Does | 🛠️ Stack | ⭐ |
 |:---:|:---:|:---:|:---:|
 | [**KisaanSetu**](https://github.com/tanaya2005/KisaanSetu--Agri-Tech_Hackathon) | 🏆 **1st Prize** — AgriTech platform empowering Indian farmers | Flutter · Dart | 🌾 |
+| [**CarbonIQ**](https://github.com/tanaya2005/CarbonIQ) | 🆕 Upload your AWS Cost & Usage Report → 6-agent AI pipeline calculates carbon emissions, maps regions, identifies optimisation opportunities & delivers sustainability insights | Python · FastAPI · React · Gemini AI · NeonDB · boto3 · Electricity Maps API | 🌱 |
 | [**SafeSight**](https://github.com/tanaya2005/SafeSight) | AI-powered industrial safety monitoring system | Python · Computer Vision · AI/ML | 🤖 |
 | [**Multi-Versal Rush**](https://github.com/tanaya2005/Multi-Versal_Rush-DevHacks) | Real-time 3D multiplayer obstacle racing — 5 worlds, voice chat, XP system & cosmetics shop | React Three Fiber · Socket.io · Node.js · LiveKit | 🎮 |
 | [**HerVerse**](https://github.com/tanaya2005/HerVerse-AWS) | Women-first social platform with real-time circles, posts & messaging | React · AWS Lambda · DynamoDB · Cognito · Stream Chat | 💜 |
@@ -123,23 +124,6 @@
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-🥇 **National Hackathon Winner** — AgriTech @ KJ Somaiya VidyaVihar (March 2025)
-
-🎮 **Built a real-time 3D multiplayer browser game** with physics, voice chat & XP system
-
-☁️ **Deployed serverless full-stack app** on AWS (Lambda + DynamoDB + Cognito + API Gateway)
-
-📱 **Published Android & Flutter apps** — SoundScapes (Kotlin) & KindMeals (Flutter)
-
-🤖 **AI Safety System** — Computer Vision-based industrial monitoring (SafeSight)
-
-</div>
-
----
 
 ## 🌊 Contribution Activity
 
@@ -151,9 +135,9 @@
 
 ## 🎯 Currently Working On
 
-- 🎮 **Multi-Versal Rush** — Adding more worlds & powerups to the 3D multiplayer racer
+- 🌱 **CarbonIQ** *(brand new!)* — 6-agent AI pipeline analysing AWS carbon footprints with Gemini AI & Electricity Maps API
 - 💜 **HerVerse** — Scaling the social platform with real-time messaging & AWS
-- 🤖 **SafeSight** — Enhancing the AI safety monitoring pipeline
+- 🤖 **Learn** — AI - Powered voice tutor agent which personalizes student's learning experience to their own way of learning & grasping
 
 ---
 
@@ -179,8 +163,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*"Code is poetry — and I write novels."* ✨
+*"I don't just build projects — I build solutions that solve real problems for real people."* 🚀
 
-**⭐ Star my repos if you find them useful! It means the world 🌏**
+**⭐ Star my repos if you find them useful!**
 
 </div>
