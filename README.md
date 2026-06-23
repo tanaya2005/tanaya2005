@@ -123,15 +123,85 @@ const tanaya = {
 
 ## 📊 Tech Stack Usage
 
-```
-JavaScript / React      ████████████████████░░░░   35%  🔥 Primary Language
-Python                  ████████████░░░░░░░░░░░░   20%  🤖 AI/ML & Backend
-Dart / Flutter          █████████░░░░░░░░░░░░░░░   15%  📱 Cross-Platform Mobile
-Kotlin                  ██████░░░░░░░░░░░░░░░░░░   10%  🤖 Native Android
-TypeScript              ██████░░░░░░░░░░░░░░░░░░   10%  💙 Type-Safe Frontend
-AWS / Cloud             ███░░░░░░░░░░░░░░░░░░░░░    5%  ☁️  Serverless & DevOps
-Others (CSS, SQL...)    ███░░░░░░░░░░░░░░░░░░░░░    5%  ✨ Supporting Tools
-```
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">⚙️ Tech</th>
+      <th align="center">📊 Usage</th>
+      <th align="center">🏷️ %</th>
+      <th align="center">💬 Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=js" width="18" height="18"/>
+        &nbsp;<b>JavaScript / React</b>
+      </td>
+      <td><img src="https://progress-bar.xyz/35/?scale=100&title=&width=260&color=F7DF1E&suffix=%" alt="35%"/></td>
+      <td align="center"><b>35%</b></td>
+      <td>🔥 Primary Language</td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=python" width="18" height="18"/>
+        &nbsp;<b>Python</b>
+      </td>
+      <td><img src="https://progress-bar.xyz/20/?scale=100&title=&width=260&color=3776AB&suffix=%" alt="20%"/></td>
+      <td align="center"><b>20%</b></td>
+      <td>🤖 AI/ML &amp; Backend</td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=flutter" width="18" height="18"/>
+        &nbsp;<b>Dart / Flutter</b>
+      </td>
+      <td><img src="https://progress-bar.xyz/15/?scale=100&title=&width=260&color=02569B&suffix=%" alt="15%"/></td>
+      <td align="center"><b>15%</b></td>
+      <td>📱 Cross-Platform Mobile</td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="18" height="18"/>
+        &nbsp;<b>Kotlin</b>
+      </td>
+      <td><img src="https://progress-bar.xyz/10/?scale=100&title=&width=260&color=7F52FF&suffix=%" alt="10%"/></td>
+      <td align="center"><b>10%</b></td>
+      <td>📲 Native Android</td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=ts" width="18" height="18"/>
+        &nbsp;<b>TypeScript</b>
+      </td>
+      <td><img src="https://progress-bar.xyz/10/?scale=100&title=&width=260&color=3178C6&suffix=%" alt="10%"/></td>
+      <td align="center"><b>10%</b></td>
+      <td>💙 Type-Safe Frontend</td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=aws" width="18" height="18"/>
+        &nbsp;<b>AWS / Cloud</b>
+      </td>
+      <td><img src="https://progress-bar.xyz/5/?scale=100&title=&width=260&color=FF9900&suffix=%" alt="5%"/></td>
+      <td align="center"><b>5%</b></td>
+      <td>☁️ Serverless &amp; DevOps</td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=css" width="18" height="18"/>
+        &nbsp;<b>Others (CSS, SQL…)</b>
+      </td>
+      <td><img src="https://progress-bar.xyz/5/?scale=100&title=&width=260&color=A855F7&suffix=%" alt="5%"/></td>
+      <td align="center"><b>5%</b></td>
+      <td>✨ Supporting Tools</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
