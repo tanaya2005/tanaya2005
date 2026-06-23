@@ -31,21 +31,6 @@
 
 ---
 
-## 🌟 About Me
-
-```typescript
-const tanaya = {
-  location: "📍 Mumbai, India",
-  passion: "Building things that actually matter — from farm-tech to 3D games",
-  currentlyBuilding: ["HerVerse (AWS Social Platform)", "Multi-Versal Rush (3D Multiplayer Game)"],
-  hackathonWins: ["🏆 1st Prize — Agri-Tech Hackathon @ KJ Somaiya (National Level)"],
-  funFact: "I build 3D multiplayer racing games AND food donation apps. Yes, both.",
-  reachMe: "linkedin.com/in/jaintanaya"
-};
-```
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -57,7 +42,7 @@ const tanaya = {
 | [**Multi-Versal Rush**](https://github.com/tanaya2005/Multi-Versal_Rush-DevHacks) | Real-time 3D multiplayer obstacle racing — 5 worlds, voice chat, XP system & cosmetics shop | React Three Fiber · Socket.io · Node.js · LiveKit | 🎮 |
 | [**HerVerse**](https://github.com/tanaya2005/HerVerse-AWS) | Women-first social platform with real-time circles, posts & messaging | React · AWS Lambda · DynamoDB · Cognito · Stream Chat | 💜 |
 | [**KindMeals**](https://github.com/tanaya2005/KindMeals) | Connects food donors, volunteers & recipients to fight hunger | Flutter · Dart · Firebase | ⭐ |
-| [**Gist**](https://github.com/tanaya2005/Gist) | Ed-tech platform with live lectures & Cloudinary video uploads | Python · React · FastAPI · Cloudinary | 📚 |
+| [**Gist**](https://github.com/tanaya2005/Gist) | Ed-tech platform with live lectures & Cloudinary video uploads | VectorDB · Pinecone · LLM · Cloudinary | 📚 |
 | [**SoundScapes**](https://github.com/tanaya2005/SoundScapes) | Smart Android sound profile automation — never miss a call again | Kotlin · Android SDK | 📱 |
 | [**Dermora**](https://github.com/tanaya2005/Dermora) | Skincare e-commerce marketplace with AI skin analysis & dashboards | TypeScript · Next.js · React | 🌿 |
 
