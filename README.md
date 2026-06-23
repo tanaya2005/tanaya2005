@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/tanaya2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+real-time+3D+multiplayer+games+%F0%9F%8E%AE;Crafting+AI-powered+safety+systems+%F0%9F%A4%96;Developing+Flutter+%26+Kotlin+mobile+apps+%F0%9F%93%B1;Full-stack+dev+%7C+Hackathon+champion+%F0%9F%8F%86;From+Mumbai%2C+shipping+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+real-time+3D+multiplayer+games+%F0%9F%8E%AE;Crafting+AI-powered+safety+systems+%F0%9F%A4%96;Developing+Flutter+%26+Kotlin+mobile+apps+%F0%9F%93%B1;Full-stack+developer+%7C+Hackathon+champion+%F0%9F%8F%86;Building+solutions+that+matter+%F0%9F%92%A1;Creating+eLearning+%26+education+systems+%F0%9F%93%9A;" alt="Typing SVG" />
 </a>
 
 <br/>
